@@ -194,7 +194,7 @@ img {
 /* --------------HERO---------------- */
 .hero {
   width: 1440px;
-  height: auto;
+  height: 600px;
   margin: 0 auto;
   padding-top: 188px;
   padding-bottom: 188px;
@@ -562,7 +562,7 @@ img {
   top: 50%;
   left: 50%;
   width: 408px;
-  min-height: 576px;
+  min-height: 584px;
   background: #fcfcfc;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12),
     0px 2px 1px rgba(0, 0, 0, 0.2);
